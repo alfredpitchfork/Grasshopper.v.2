@@ -1,0 +1,43 @@
+//Images
+$img1: url('/dist/img/MeatHaven/raw1.jpg');
+$img2: url('/dist/img/MeatHaven/food2.jpg');
+$img3: url('/dist/img/MeatHaven/food7.jpg');
+$img4: url('/dist/img/MeatHaven/food4.jpg');
+$img5: url('/dist/img/MeatHaven/food5.jpg');
+$img6: url('/dist/img/MeatHaven/food6.jpg');
+$img7: url('/dist/img/MeatHaven/food5.jpg');
+$img8: url('/dist/img/MeatHaven/food8.jpg');
+$img9: url('/dist/img/MeatHaven/food9.jpg');
+$img10: url('/dist/img/MeatHaven/food10.jpg');
+$img11: url('/dist/img/MeatHaven/food1.jpg');
+$img12: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop1: url('/dist/img/MeatHaven/raw2.jpg');
+$imgBackdrop2: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop3: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop4: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop5: url('/dist/img/MeatHaven/raw3.jpg');
+$imgBackdrop6: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop7: url('/dist/img/MeatHaven/food8.jpg');
+$imgBackdrop8: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop9: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop10: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop11: url('/dist/img/MeatHaven/food3.jpg');
+$imgBackdrop12: url('/dist/img/MeatHaven/food1.jpg');
+$imgToGo: url('/dist/img/MeatHaven/raw4.jpg');
+$imgPlace: url('/dist/img/MeatHaven/food7.jpg');
+$imgPlace2: url('/dist/img/MeatHaven/place4.jpg');
+$imgDrink1: url('/dist/img/MeatHaven/raw5.jpg');
+$imgDrink2: url('/dist/img/MeatHaven/raw5.jpg');
+$imgDrink3: url('/dist/img/MeatHaven/raw5.jpg');
+
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat+Subrayada:wght@700&family=Rock+Salt&display=swap');
+
+$HeaderFont: 'Montserrat Subrayada', sans-serif;
+$SubtextFont: 'Rock Salt', cursive;
+$ParagraphFont: 'Indie Flower', cursive;
+
+//Color Palette
+$primaryColor: #b8860b;
+$secondaryColor: #daa520;
+$primaryColorFaded: rgb(160, 117, 10);
